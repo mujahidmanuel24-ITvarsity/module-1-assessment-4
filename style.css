@@ -1,0 +1,21 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-width:1px;
+    border-style:solid;
+    border-color: #0f6922;
+}
+th{
+    font-weight: 800;
+    background-color: #0c6d55 ;
+    color: white;
+}
+
+h1{
+    color : rgb(10, 92, 27);
+    font-family: fantasy;
+}
+
+h2{ 
+    color:#e6bb31  ;
+    font-family: fantasy;
+}
